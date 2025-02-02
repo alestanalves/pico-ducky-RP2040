@@ -1,0 +1,9 @@
+# Ignorar arquivos Zone.Identifier do Windows
+*:Zone.Identifier
+*.Identifier
+
+# Outros arquivos comuns para ignorar
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
