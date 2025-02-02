@@ -1,6 +1,7 @@
 # Rubber Ducky para RP2040 Zero :duck:
 
 Adaptação do [pico-ducky](https://github.com/dbisu/pico-ducky) de **dbisu** para o RP2040 Zero.
+Projeto original em [pico-ducky-rp2040](https://github.com/sufigueroa/pico-ducky-RP2040-Zero)
 
 ## Instalação
 
