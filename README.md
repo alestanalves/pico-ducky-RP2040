@@ -16,7 +16,7 @@ O mapeamento dos pinos para esta placa é o seguinte.
 
 ![pinout](pinout.jpg "Pinout")
 
-Para o modo furtivo, adicione um jumper conectando o pino GP15 ao GND.
+Para o BAD USB, adicione um jumper conectando o pino GP15 ao GND.
 
 Caso algo dê errado na instalação, você pode restaurar as configurações de fábrica da placa mantendo pressionado o botão de boot e arrastando o arquivo *flash_nuke.uf2*.
 
