@@ -23,6 +23,5 @@ Caso algo dê errado na instalação, você pode restaurar as configurações de
 ## A FAZER:
 
 - Permitir mais de um *payload*.
-- Criar design para case impresso em 3D.
 - Controlar o modo furtivo por meio de um interruptor.
 - Selecionar o *payload* por meio de uma entrada.
