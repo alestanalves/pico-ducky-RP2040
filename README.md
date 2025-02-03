@@ -1,7 +1,8 @@
 # Rubber Ducky para RP2040 Zero :duck:
 
-Adaptação do [pico-ducky](https://github.com/dbisu/pico-ducky) de **dbisu** para o RP2040 Zero.
-Projeto original em [pico-ducky-rp2040](https://github.com/sufigueroa/pico-ducky-RP2040-Zero)
+- daptação do [pico-ducky](https://github.com/dbisu/pico-ducky) de **dbisu** para o RP2040 Zero.
+- Projeto original em [pico-ducky-rp2040](https://github.com/sufigueroa/pico-ducky-RP2040-Zero)
+- Modelo 3D para imprimir a case: https://makerworld.com/en/models/577171?from=search#profileId-497802
 
 ## Instalação
 
