@@ -3,7 +3,7 @@
 - daptação do [pico-ducky](https://github.com/dbisu/pico-ducky) de **dbisu** para o RP2040 Zero.
 - Projeto original em [pico-ducky-rp2040](https://github.com/sufigueroa/pico-ducky-RP2040-Zero)
 - Modelo 3D para imprimir a case: https://makerworld.com/en/models/577171?from=search#profileId-497802
-- Compre aqui o RP2040 https://s.click.aliexpress.com/e/_oCnS2JJ
+- Compre aqui o RP2040 [https://s.click.aliexpress.com/e/_oCnS2JJ](https://s.click.aliexpress.com/e/_c3OKrqQP)
 
 ## Instalação
 
